@@ -1,1 +1,9 @@
-This file serves as an introduction to your Knowledge Base, it is displayed on the homepage of your website. Use it to provide more context to your visitors.
+一直以来都有写书的梦想，而恰好有偶需一个记录思绪的地方，便以此。
+
+偶有奇思妙想，亦或是困惑不解，应有所记，虽做笔记，但亦欲分享之，以此记之。
+
+偶有长吁短叹，或是幸甚至哉，应有所寄，聊聊无事，亦此寄之。
+
+  
+
+
