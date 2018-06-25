@@ -10,7 +10,7 @@ fi
 
 rev=$(git rev-parse --short HEAD)
 
-cd _book
+cd docs
 
 git initgit config user.name "blackplume"
 
