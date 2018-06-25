@@ -5,6 +5,6 @@ install:
  - "npm install gitbook -g"
  - "npm install -g gitbook-cli"
 script:
- - "gitbook build . .\docs"
+ - "gitbook build . .\\docs"
 after_success:
  - "sh deploy.sh"
