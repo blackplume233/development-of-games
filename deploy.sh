@@ -10,9 +10,10 @@ fi
 
 rev=$(git rev-parse --short HEAD)
 
-cd docs
 
-git initgit config user.name "blackplume"
+git init
+
+git config user.name "blackplume"
 
 git config user.email "qingyu.s@foxmail.com"
 
